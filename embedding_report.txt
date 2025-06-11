@@ -1,0 +1,15 @@
+Dataset Statistics:
+Total number of paragraphs: 300
+Number of AI samples: 150
+Number of Human samples: 150
+
+
+Embedding Model: GloVe
+Embedding Dimensions: 100
+
+
+Vocabulary Size: 7364
+
+
+OOV Handling: filters out OOV words
+Total OOV words encountered across all paragraphs: 819
