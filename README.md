@@ -1,1 +1,2 @@
 # AI-text-detection-
+In this project, I built an AI system that can detect and classify text using machine learning. I worked in a Jupyter Notebook and used Python libraries like NumPy, Pandas, and Matplotlib to handle and visualize the data. The process involved cleaning the text data, extracting useful features, training a machine learning model, and testing how well it performed. The goal was to teach the model to recognize patterns in text and make accurate predictions.
